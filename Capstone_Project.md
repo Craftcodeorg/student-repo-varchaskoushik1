@@ -1,0 +1,1 @@
+Create an interactive educational game using Scratch that teaches coding concepts to kids aged 8-15. The game should incorporate storytelling, math challenges, and engaging visuals to captivate the audience. It should include levels where players must solve coding puzzles and math problems to advance, demonstrating their understanding of both subjects while having fun.
